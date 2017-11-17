@@ -1,4 +1,3 @@
-Files in Folder:
 1. Folder TournamentPredictor
 2. problem2.xlsx
 3. README.txt
